@@ -1,0 +1,52 @@
+{
+	"1" : {
+		"question": "makhluk hidup memiliki ciri-ciri bernafas",
+		"answer": true
+	},
+
+	"2" : {
+		"question": "Ikan lele bernafas menggunakan paru-paru",
+		"answer": false
+	},
+
+	"3" : {
+		"question": "Peka erhadap rangsang bukan termasuk ciri-ciri makhluk hidup.",
+		"answer": false
+	},
+
+	"4" : {
+		"question": "bergerak merupakan ciri-ciri makhluk hidup",
+		"answer": true
+	},
+
+	"5" : {
+		"question": "Daun putri malu akan mengncup ketika disentuh",
+		"answer": true
+	},
+
+	"6" : {
+		"question": "Daun putri malu merupakan contoh makhluk hidup yang tidak peka terhadap rangsang",
+		"answer": false
+	},
+
+	"7" : {
+		"question": "Manusia bernafas menggunakan paru-paru",
+		"answer": true
+	},
+
+	"8" : {
+		"question": "Makan dan minum tidak termasuk ciri-ciri makhluk hidup",
+		"answer": false
+	},
+
+	"9" : {
+		"question": "Bergerak merupakan salah satu ciri-ciri makhluk hidup",
+		"answer": true
+	},
+
+	"10" : {
+		"question": "Tumbuh dan berkembang merupakan ciri-ciri makhluk hidup",
+		"answer": true
+	}
+
+}
